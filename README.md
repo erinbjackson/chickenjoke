@@ -7,3 +7,4 @@ Project was to create a randomized message that would print a variety of stateme
 
 * Javascript
 
+# mixedmessages
